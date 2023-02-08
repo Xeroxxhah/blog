@@ -1,0 +1,15 @@
+baseURL = 'https://xeroxxhah.github.io/'
+languageCode = 'en-us'
+title = 'The Dark Arts'
+theme = 'hello-friend-ng'
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+
+[[menu.main]]
+	identifier = "blog"
+	name       = "Blog"
+	url        = "/posts"
