@@ -10,7 +10,6 @@ Muhammad Nauman Azeem
 - Rawalpindi,Pakistan                         
 - nomanazeem@gmail.com 
 - @xeroxxhah 
-- +923185155488 
 -------------------     
 
 Education
