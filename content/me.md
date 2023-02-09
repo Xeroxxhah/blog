@@ -1,7 +1,6 @@
 ---
 title: "Me"
 date: 2023-02-09T07:59:31+05:00
-draft: true
 ---
 
 Muhammad Nauman Azeem
