@@ -4,7 +4,7 @@ date: 2023-02-09T09:18:34+05:00
 ---
 
 ### README.md 👋
-# 6u4rd
+# [6u4rd](https://github.com/Xeroxxhah/6u4rd)
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Xeroxxhah/6u4rd)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 ![Contribution](https://img.shields.io/badge/Contributions-Welcome-<brightgreen>)
