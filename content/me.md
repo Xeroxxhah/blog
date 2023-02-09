@@ -1,16 +1,17 @@
 ---
-title: "Me"
-date: 2023-02-09T07:59:31+05:00
+title: "About Me"
+date: 2023-02-09T07:59:31+05:00					
 ---
 
 Muhammad Nauman Azeem
 ============
 
--------------------     ----------------------------
-Rawalpindi                        nomanazeem@gmail.com
-Pakistan		                    @xeroxxhah
-                           			+923185155488
--------------------     ----------------------------
+-------------------
+Rawalpindi,Pakistan                        
+nomanazeem@gmail.com
+@xeroxxhah
++923185155488
+-------------------     
 
 Education
 ---------
@@ -20,6 +21,8 @@ Education
 
     *FYP title: Traffic Generation Framework for IoT Devices*
 
+
+
 2017-2019
 :   **Secondry Education**; Hamza Army Public College (Rawalpindi)
 
@@ -28,11 +31,6 @@ Education
 Experience
 ----------
 
-**Experience:**
-
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
 
 ## Penetration Tester
 
@@ -44,13 +42,13 @@ self employeed
 * Penetration Tester
 
 
-
 ## Intern
 
 VaporVM IT Services
 
-**OCT 2021 - JAN 2
-022**
+**OCT 2021 - JAN 2022**
+
+
 ## Intern
 
 VaporVM IT Services
@@ -62,7 +60,6 @@ VaporVM IT Services
 * Web Application Pentesting
 * Infrastructure Security Assessment
 * Python Scripting
-
 
 
 ## Penetration Tester
