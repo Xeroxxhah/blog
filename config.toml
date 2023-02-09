@@ -12,4 +12,16 @@ theme = 'hello-friend-ng'
 [[menu.main]]
 	identifier = "blog"
 	name       = "Blog"
-	url        = "/posts"
+	Mel        = "/posts"
+
+[[menu.main]]
+	identifier = "project"
+	name       = "Projects"
+	url        = "/project"
+
+
+[[menu.main]]
+	identifier = "Me"
+	name       = "About Me"
+	url        = "/me"
+
