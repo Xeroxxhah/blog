@@ -10,9 +10,10 @@ theme = 'hello-friend-ng'
 
 
 [[menu.main]]
-	identifier = "blog"
+	identifier = "post"
 	name       = "Blog"
-	Mel        = "/posts"
+	url        = "/posts"
+
 
 [[menu.main]]
 	identifier = "project"
