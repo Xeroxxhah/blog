@@ -1,4 +1,4 @@
-	---
+---
 title: "About Me"
 date: 2023-02-09T07:59:31+05:00					
 ---
@@ -67,11 +67,10 @@ Skills
 --------------------
 * __Web App Penetration Testing__
 * __Android App Penetration Testing__
-* __Netwrok Penetration Testing__
+* __Network Penetration Testing__
 * __Red Teaming__
 * __Web Development__
 * __Python Scripting__ ([Github](https://github.com/Xeroxxhah)) 
-* __Web Penetration Testing__
 * __Linux__
 * __Source Code Analysis__
 * __Bug Bounty Hunter__
